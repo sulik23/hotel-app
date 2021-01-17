@@ -1,1 +1,2 @@
-Hotel website
+Hotel React App
+Rooms
