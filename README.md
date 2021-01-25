@@ -1,4 +1,5 @@
-Hotel React App
-Rooms
-Sorting
-bookings
+- Hotel React App
+- Fully responsive
+- Rooms
+- Sorting
+- bookings
