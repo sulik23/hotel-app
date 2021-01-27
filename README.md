@@ -4,4 +4,3 @@
 - React Icons
 - Rooms
 - Sorting
-- bookings
