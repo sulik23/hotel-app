@@ -1,4 +1,4 @@
-- Hotel React App
+- Hotels React App
 - Fully responsive
 - Contentful
 - React Icons
