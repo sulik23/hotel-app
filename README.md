@@ -4,3 +4,4 @@
 - React Icons
 - Rooms
 - Sorting
+- Gallery
