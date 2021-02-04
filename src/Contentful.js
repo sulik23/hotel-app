@@ -1,4 +1,4 @@
-const contentful = require("contentful");
+const contentful = require('contentful');
 
 export default contentful.createClient({
   space: process.env.REACT_APP_API_SPACE,
