@@ -3,5 +3,4 @@
 - Contentful
 - React Icons
 - Rooms
-- Sorting
 
