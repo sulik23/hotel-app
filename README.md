@@ -3,4 +3,3 @@
 - Contentful
 - React Icons
 - Rooms
-- photo gallery
